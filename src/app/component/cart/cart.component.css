@@ -1,0 +1,31 @@
+.cart{
+    height: 60vh;
+    margin: 25px;
+    padding: 25px;
+    text-align: center;
+}
+
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+.center img{
+    width: 300px;
+    height: 200px;
+    margin-bottom: 2rem;
+}
+
+.cart-table{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(218, 227, 235);
+    background-clip: border-box;
+    border: 1px solid rebeccapurple;
+    border-radius: .25rem;
+
+}

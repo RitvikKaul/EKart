@@ -1,0 +1,39 @@
+.cart-top{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    background: #fff;
+    border: 1px solid #c6c6c3;
+    border-radius: .25rem;
+}
+
+.item img{
+    width: 65px;
+}
+
+.item{
+    margin: 0px 15px;
+    text-align: center;
+}
+
+.item a:hover{
+    color: blue;
+}
+
+.card{
+    padding: 20px;
+    margin: 50px;
+}
+
+.card img{
+    width: 300px;
+    height: 300px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+
+.card img:hover{
+    transition: .2s ease-in-out;
+    transform: scale(1.3);
+}

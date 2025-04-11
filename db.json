@@ -1,0 +1,61 @@
+{
+  
+
+  "posts": [
+    {
+      "id": 1,
+      "image": "https://iili.io/PrB2MG.jpg",
+      "title": "Reebok T-Shirt",
+      "description": "klajclkjelkcjle",
+      "price": 20000
+    },
+    {
+      "id": 2,
+      "image": "https://iili.io/PrBTMb.jpg",
+      "title": "Addidas Shoes",
+      "description": "KLJRFWJEKL",
+      "price": 10000
+    },
+    {
+      "id": 3,
+      "image": "https://iili.io/PrBEog.jpg",
+      "title": "PUMA",
+      "description": "lwrjvlwew",
+      "price": 6000
+    },
+    {
+      "id": 4,
+      "image": "https://iili.io/PrfGmF.jpg",
+      "title": "PK Jewellers",
+      "description": "elfjwledjal",
+      "price": 300000
+    },
+    {
+      "id": 5,
+      "image": "https://iili.io/Prq9Bj.png",
+      "title": "MacBook",
+      "description": "lrfhlawenlcasnl",
+      "price": 119999
+    },
+    {
+      "id": 6,
+      "image": "https://iili.io/PrqOCb.jpg",
+      "title": " Sony Headphone",
+      "description": "lwejhclwenl",
+      "price": 8000
+    }
+  ],
+
+
+
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
